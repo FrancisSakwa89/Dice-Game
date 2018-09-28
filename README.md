@@ -1,4 +1,4 @@
-#### PIG DICE
+# PIG DICE
 This application is called pig dice that accomodates 1 - 2 players.
 ## By
 Francis Sakwa
