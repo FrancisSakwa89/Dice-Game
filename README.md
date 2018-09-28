@@ -12,7 +12,7 @@ Francis Sakwa
 * Open your browser and serach for FrancisSakwa89
 * Chose a pig-dice repository
 * Open your atom/visual studio code
-* git clone  the link and work on it if it's your preffered text editor.
+* git clone  the link https://francissakwa89.github.io/Dice-Game/ and work on it if it's your preffered text editor.
 #### BDD
 Players input                         | Expected output
 --------------------------------------|-----------------------------------------------------------------
